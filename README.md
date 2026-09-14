@@ -1,16 +1,13 @@
-## Hi there 👋
+# Bemnet Weldemeskel
 
-<!--
-**bemnet-weldemeskel/bemnet-weldemeskel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build software for operations that physically move things.
 
-Here are some ideas to get you started:
+Mechanical engineering background, currently pursuing an MS in Software Engineering at Kennesaw State.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Currently:** managing inventory operations at an electronics recycling company and building the system that runs it: React, TypeScript, Supabase, PostgreSQL. Extending it now with a natural-language query layer.
+
+**Also:** microcontrollers, sensor systems, CAD, and physical mechanisms that feed data into the software.
+
+TypeScript · React · PostgreSQL · Supabase · Arduino · CAD
+
+📍 GA · [LinkedIn](https://linkedin.com/in/bemnet-weldemeskel)
