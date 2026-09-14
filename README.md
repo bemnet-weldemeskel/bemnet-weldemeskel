@@ -10,4 +10,4 @@ Mechanical engineering background, currently pursuing an MS in Software Engineer
 
 TypeScript · React · PostgreSQL · Supabase · Arduino · CAD
 
-📍 GA · [LinkedIn](https://linkedin.com/in/bemnet-weldemeskel)
+📍 GA · [LinkedIn](www.linkedin.com/in/bemnetw)
