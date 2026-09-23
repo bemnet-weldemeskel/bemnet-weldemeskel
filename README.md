@@ -2,7 +2,7 @@
 
 I build software for operations that physically move things.
 
-Mechanical engineering background, currently pursuing an MS in Software Engineering at Kennesaw State.
+Currently pursuing an MS in Software Engineering at Kennesaw State, Mechanical (Mechantronics and design) Engineering background.
 
 **Currently:** managing inventory operations at an electronics recycling company and building the system that runs it: React, TypeScript, Supabase, PostgreSQL. Extending it now with a natural-language query layer.
 
